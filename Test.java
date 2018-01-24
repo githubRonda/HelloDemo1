@@ -4,7 +4,7 @@ import java.util.Arrays;
 class Test{
 	public static void man(String[] args){
 
-        String str = "我要去北京啦!";
+        String str = "我要去北京啦啦啦!";
         if (str.contains("要去")){
 
             String[] splits = str.split("要去");
